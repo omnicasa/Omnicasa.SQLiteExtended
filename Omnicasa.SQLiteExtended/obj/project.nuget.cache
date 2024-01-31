@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RueBKEqbybGw9jYfsi2n2n2Ogwv+HZB06vcimz3pOC+DgB3x6hvVxfdSoE7zBKFtf67xKsSjulG4C0KIIIrCyw==",
+  "success": true,
+  "projectFilePath": "/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj",
+  "expectedPackageFiles": [
+    "/Users/omnimobile/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/omnimobile/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/omnimobile/.nuget/packages/sqlite-net-pcl/1.6.292/sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "/Users/omnimobile/.nuget/packages/sqlitepclraw.bundle_green/1.1.13/sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "/Users/omnimobile/.nuget/packages/sqlitepclraw.core/1.1.13/sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "/Users/omnimobile/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

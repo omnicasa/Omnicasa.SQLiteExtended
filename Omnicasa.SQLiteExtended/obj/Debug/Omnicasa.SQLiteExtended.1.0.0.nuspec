@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Omnicasa.SQLiteExtended</id>
+    <version>1.0.0</version>
+    <authors>Omnicasa.SQLiteExtended</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="sqlite-net-pcl" version="1.6.292" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/bin/Debug/netstandard2.0/Omnicasa.SQLiteExtended.dll" target="lib/netstandard2.0/Omnicasa.SQLiteExtended.dll" />
+  </files>
+</package>

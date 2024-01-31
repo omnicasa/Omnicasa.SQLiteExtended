@@ -1,0 +1,10 @@
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/bin/Release/netstandard2.0/Omnicasa.SQLiteExtended.deps.json
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/bin/Release/netstandard2.0/Omnicasa.SQLiteExtended.dll
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/bin/Release/netstandard2.0/Omnicasa.SQLiteExtended.pdb
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.csproj.AssemblyReference.cache
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.AssemblyInfoInputs.cache
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.AssemblyInfo.cs
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.csproj.CoreCompileInputs.cache
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.dll
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.pdb

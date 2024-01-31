@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj">
+    <Files>
+      <File FileName="Omnicasa.SQLiteExtended/IConnection.cs" Line="8" Column="1" />
+      <File FileName="Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj" Line="6" Column="39" />
+      <File FileName="Omnicasa.SQLiteExtended/SQLite3Extend.cs" Line="41" Column="23" />
+      <File FileName="Omnicasa.SQLiteExtended/SQLiteCommand.cs" Line="25" Column="18" />
+      <File FileName="Omnicasa.SQLiteExtended/ConnectionManagement/ConnectionManager.cs" Line="17" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Omnicasa.SQLiteExtended" expanded="True">
+            <Node name="Omnicasa.SQLiteExtended" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+</Properties>
