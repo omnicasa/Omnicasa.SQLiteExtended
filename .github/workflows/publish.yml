@@ -16,6 +16,13 @@ jobs:
             version-file: Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj
             version-stub: '65534.65534.65534.65534'
 
+      - name: Set MyProject.csproj version
+        id: update
+        uses: vers-one/dotnet-project-version-updater@v1.3
+        with:
+          file: "Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj"
+          version: ${{ env.VERSION }}
+          
       # Publish
       - name: Publish on version change
         id: publish_nuget
