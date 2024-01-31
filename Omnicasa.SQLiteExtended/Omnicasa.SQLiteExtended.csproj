@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Omnicasa.SQLiteExtended</PackageId>
-    <Version>2024.1.31.1400</Version>
+    <Version>0.0.0.0</Version>
     <Authors>HoangQuach</Authors>
     <Company>Omnicasa</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
