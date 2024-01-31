@@ -15,6 +15,14 @@ jobs:
       #   with:
       #     dotnet-version: 3.1.200
 
+      - name: Set project version for .NET project
+      uses: EduardSergeev/project-version-action@v6
+      with:
+        version-file: Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj
+        version-stub: '65534.65534.65534.65534'
+      run: |
+        echo env.VERSION
+
       # Publish
       - name: publish on version change
         id: publish_nuget
