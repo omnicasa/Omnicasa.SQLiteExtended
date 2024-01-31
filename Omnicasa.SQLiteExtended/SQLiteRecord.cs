@@ -8,7 +8,7 @@ using System.Reflection;
 namespace Omnicasa.SQLiteExtended
 {
     /// <summary>
-    /// Define SQLite record.
+    /// Define SQLite record..
     /// </summary>
     public class SQLiteRecord : IReadOnlyList<object>, IReadOnlyDictionary<string, object>, IDynamicMetaObjectProvider
     {
