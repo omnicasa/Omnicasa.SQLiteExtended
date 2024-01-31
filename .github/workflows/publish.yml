@@ -15,8 +15,6 @@ jobs:
         with:
             version-file: Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj
             version-stub: '65534.65534.65534.65534'
-        run: |
-            echo env.VERSION
 
       # Publish
       - name: publish on version change
