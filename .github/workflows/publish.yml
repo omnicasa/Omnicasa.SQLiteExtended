@@ -24,9 +24,6 @@ jobs:
           # Filepath of the project to be packaged, relative to root of repository
           PROJECT_FILE_PATH: Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj
 
-          # Configuration to build and package
-          BUILD_CONFIGURATION: Release
-
           # API key to authenticate with NuGet server
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}
 
