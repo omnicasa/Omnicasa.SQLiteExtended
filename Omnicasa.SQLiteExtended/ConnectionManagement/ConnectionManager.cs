@@ -10,7 +10,7 @@ using SQLite;
 namespace Omnicasa.SQLiteExtended.ConnectionManagement
 {
     /// <summary>
-    /// SQLite ConnectionManager
+    /// SQLite ConnectionManager for all sub project.
     /// </summary>
     public static class ConnectionManager
     {
