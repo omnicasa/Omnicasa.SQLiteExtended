@@ -10,16 +10,23 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set project version for .NET project
+      - name: Generating project version
         uses: EduardSergeev/project-version-action@v6
         with:
             version-file: Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj
             version-stub: '65534.65534.65534.65534'
 
+      - name: Set version for project
+        id: update
+        uses: vers-one/dotnet-project-version-updater@v1.3
+        with:
+          file: "Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj"
+          version: ${{ env.VERSION }}
+          
       # Publish
       - name: Publish on version change
         id: publish_nuget
-        uses: rohith/publish-nuget@v2
+        uses: linch90/publish-nuget@v1.0.2
         with:
           # Filepath of the project to be packaged, relative to root of repository
           PROJECT_FILE_PATH: Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj
