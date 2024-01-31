@@ -1,6 +1,6 @@
-name: NugetPublish
+name: Dev
 on:
-  pull-request:
+  pull_request:
     branches:
       - master
 jobs:
