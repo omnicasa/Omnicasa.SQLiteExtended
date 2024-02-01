@@ -346,7 +346,7 @@
     "/Users/omnimobile/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.0",
     "restore": {
       "projectUniqueName": "/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended.csproj",
       "projectName": "Omnicasa.SQLiteExtended",
@@ -373,9 +373,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {

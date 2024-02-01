@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Omnicasa.SQLiteExtended.Events;
 using SQLite;
+using SQLiteLibrary.Events;
 
-namespace Omnicasa.SQLiteExtended
+namespace SQLiteLibrary
 {
     /// <summary>Represents an open connection to a SQLite database.</summary>
     public class SQLiteConnection : SQLite.SQLiteConnection, IConnection

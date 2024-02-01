@@ -7,7 +7,7 @@ using System.Reflection;
 using SQLite;
 using Sqlite3Statement = SQLitePCL.sqlite3_stmt;
 
-namespace Omnicasa.SQLiteExtended
+namespace SQLiteLibrary
 {
     /// <inheritdoc/>
     internal static class EnumCache

@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "Omnicasa.SQLiteExtended/2024.1.31.1400": {
+      "Omnicasa.SQLiteExtended/0.0.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "StyleCop.Analyzers": "1.1.118",
@@ -66,7 +66,7 @@
     }
   },
   "libraries": {
-    "Omnicasa.SQLiteExtended/2024.1.31.1400": {
+    "Omnicasa.SQLiteExtended/0.0.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
