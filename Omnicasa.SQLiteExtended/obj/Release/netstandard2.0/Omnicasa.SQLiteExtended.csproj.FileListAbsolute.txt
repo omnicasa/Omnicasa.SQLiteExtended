@@ -6,5 +6,6 @@
 /Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.AssemblyInfoInputs.cache
 /Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.AssemblyInfo.cs
 /Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.csproj.CoreCompileInputs.cache
+/Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.sourcelink.json
 /Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.dll
 /Users/omnimobile/Projects/Omnicasa.SQLiteExtended/Omnicasa.SQLiteExtended/obj/Release/netstandard2.0/Omnicasa.SQLiteExtended.pdb

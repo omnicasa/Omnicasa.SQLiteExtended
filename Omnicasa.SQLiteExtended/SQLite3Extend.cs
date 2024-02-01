@@ -3,7 +3,7 @@ using SQLitePCL;
 using Sqlite3DatabaseHandle = SQLitePCL.sqlite3;
 using Sqlite3Raw = SQLitePCL.raw;
 
-namespace Omnicasa.SQLiteExtended
+namespace SQLiteLibrary
 {
     /// <summary>
     /// SQLite3Extend

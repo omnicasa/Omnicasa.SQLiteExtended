@@ -1,4 +1,4 @@
-﻿namespace Omnicasa.SQLiteExtended
+﻿namespace SQLiteLibrary
 {
     /// <summary>IConnection</summary>
     public interface IConnection

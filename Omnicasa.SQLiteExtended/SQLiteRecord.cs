@@ -5,7 +5,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Omnicasa.SQLiteExtended
+namespace SQLiteLibrary
 {
     /// <summary>
     /// Define SQLite record..

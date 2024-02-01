@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Omnicasa.SQLiteExtended.Events
+namespace SQLiteLibrary.Events
 {
     /// <summary>
     /// HookTrackingChangeTableEventArgs

@@ -4,10 +4,11 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using Omnicasa.SQLiteExtended.Events;
 using SQLite;
+using SQLiteLibrary.Events;
+using SQLiteConnection = SQLiteLibrary.SQLiteConnection;
 
-namespace Omnicasa.SQLiteExtended.ConnectionManagement
+namespace Omnicasa.Mobile.LocalDB.ConnectionManager
 {
     /// <summary>
     /// SQLite ConnectionManager for all sub project.....
